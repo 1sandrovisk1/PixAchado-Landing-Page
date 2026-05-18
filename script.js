@@ -18,7 +18,10 @@ const joiners = [
   "Renata Nunes",
   "Gustavo Pereira",
   "Larissa Almeida",
-  "Eduardo Castro"
+  "Eduardo Castro",
+  "theinoxx",
+  "Alexandre",
+  "Rainer J. O"
 ];
 
 const popup = document.getElementById("joinPopup");
