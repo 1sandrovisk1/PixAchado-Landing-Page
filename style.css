@@ -381,7 +381,7 @@ h1 {
 .lead-capture h2 {
   color: var(--white);
   font-size: clamp(2rem, 5vw, 4.1rem);
-  line-height: 1;
+  line-height: 1.2;
 }
 
 .benefits__grid {
