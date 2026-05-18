@@ -265,6 +265,10 @@ h1 {
   padding: 24px;
 }
 
+.notice .eyebrow {
+  margin-bottom: 20px;
+}
+
 .notice h2,
 .catalog h1 {
   color: var(--white);
