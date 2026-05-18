@@ -14,6 +14,8 @@ Criar uma pagina simples, responsiva e chamativa para incentivar visitantes a en
 - CTA para entrada no grupo via WhatsApp.
 - Bloco de beneficios com argumentos de conversao.
 - Popup automatico simulando novos membros entrando no grupo.
+- Catalogo de grupos por categoria.
+- Landing pages especificas para cada categoria disponivel.
 - Favicon configurado com `favicon.png`.
 - Layout responsivo para desktop e mobile.
 - Estrutura separada em HTML, CSS e JavaScript.
@@ -32,6 +34,15 @@ Criar uma pagina simples, responsiva e chamativa para incentivar visitantes a en
 +-- assets/
 |   +-- preview.png
 +-- favicon.png
++-- grupos/
+|   +-- index.html
+|   +-- acessorios-de-moda.html
+|   +-- ...
++-- grupos.css
++-- img/
+|   +-- grupos/
+|       +-- Acessorios de Moda.png
+|       +-- ...
 +-- index.html
 +-- LICENSE.txt
 +-- README.md
